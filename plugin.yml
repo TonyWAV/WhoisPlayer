@@ -1,0 +1,17 @@
+name: Whois_player
+main: Whois\Whois
+version: 1.0.0
+api: ["1.14.0"]
+author: TonyGonnt
+description: Whois player
+website: http://www.wavuncraft.net
+update: Update for 2.0
+
+commands:
+  wh:
+    description: "Check a player's whole information"
+    usage: "/wh <player>"
+    permission: "whoisplayer.command"
+permissions:
+  whoisplayer.command:
+    default: op
