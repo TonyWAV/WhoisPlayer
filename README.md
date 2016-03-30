@@ -19,5 +19,8 @@ Simply issue '/wh <player>', then you will get the player's info!
 12. God
 13. Money
 
+To-Do-List
+Check Player's Ping
+
 Command:
 /wh <player>
