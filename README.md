@@ -18,3 +18,6 @@ Simply issue '/wh <player>', then you will get the player's info!
 11. Afk
 12. God
 13. Money
+
+Command:
+/wh player
