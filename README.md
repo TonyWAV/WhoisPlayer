@@ -20,4 +20,4 @@ Simply issue '/wh <player>', then you will get the player's info!
 13. Money
 
 Command:
-/wh player
+/wh <player>
