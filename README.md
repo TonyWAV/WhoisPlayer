@@ -19,8 +19,11 @@ Simply issue '/wh <player>', then you will get the player's info!
 12. God
 13. Money
 
-To-Do-List
-Check Player's Ping
+To-Do-List:
+1.Check Player's Ping
+
+Bugs:
+1.Sometimes your server will crash when you reload,it is the known bug of this plugin but you just need to close and open your imagical mine server to make this work.
 
 Command:
 /wh <player>
